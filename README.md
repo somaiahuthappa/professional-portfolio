@@ -12,5 +12,5 @@ A digital portfolio created for potential employers.
 - https://somaiahuthappa.github.io/professional-portfolio/
 
 ## Screenshots
-- ![This is a screenshot](/assets/images/screenshot-1.png)
-- ![This is a screenshot](/assets/images/screenshot-2.png)
+- ![This is a screenshot](/assets/images/screenshot-1.PNG)
+- ![This is a screenshot](/assets/images/screenshot-2.PNG)
