@@ -8,8 +8,8 @@ A digital portfolio created for potential employers.
 - Must contain their contact details
 
 ## Links
-- 
-- 
+- https://github.com/somaiahuthappa/professional-portfolio
+- https://somaiahuthappa.github.io/professional-portfolio/
 
 ## Screenshots
 ![Screenshot 1](//assets/images/screenshot-1.png)
