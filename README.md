@@ -1,4 +1,4 @@
-# Somaiah's-Portfolio
+# Somaiah' Portfolio
 A digital portfolio created for potential employers.
 
 ## Requirements
