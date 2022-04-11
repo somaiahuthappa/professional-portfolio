@@ -156,7 +156,7 @@ body {
 .small-display-one {
     flex: 1 0 47%;
     height: 200px;
-    background-image: url("../images/horiseon.png");
+    background-image: url("../images/PetBuddies.PNG");
     background-size: cover;
     border: 5px solid var(--secondary-color);
     margin: 20px;
